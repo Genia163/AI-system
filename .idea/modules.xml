@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AI-system.iml" filepath="$PROJECT_DIR$/.idea/AI-system.iml" />
+      <module fileurl="file://D:/Мои документы универ/Jupiter NoteBook/.idea/Jupiter NoteBook.iml" filepath="D:/Мои документы универ/Jupiter NoteBook/.idea/Jupiter NoteBook.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14100.45633/.idea/Rar$DIa14100.45633.iml" filepath="$USER_HOME$/AppData/Local/Temp/Rar$DIa14100.45633/.idea/Rar$DIa14100.45633.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Telegram Desktop/.idea/Telegram Desktop.iml" filepath="$USER_HOME$/Downloads/Telegram Desktop/.idea/Telegram Desktop.iml" />
     </modules>
   </component>
 </project>
